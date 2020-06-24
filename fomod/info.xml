@@ -2,10 +2,11 @@
 <fomod> 
 	<Name>Sim Settlements - Ruined Homes and Gardens Add-on</Name> 
 	<Author>Ruinedworld</Author> 
-	<Version>3.1.0</Version> 
+	<Version>4.1.2</Version> 
 	<Website>http://www.nexusmods.com/fallout4/mods/23917?</Website> 
 	<Description>Sim Settlements Add-On Pack
 	Requires Sim Settlements version 3.2.0  http://www.nexusmods.com/fallout4/mods/21872/?</Description> 
+	Requires Sim Settlements version 4.1.0  http://www.nexusmods.com/fallout4/mods/21872/?</Description> 
 	<Groups>
 		<element>Player Settlement</element>
 	</Groups> 
